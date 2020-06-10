@@ -1,0 +1,6 @@
+                                                                 Data
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Data needed to tackle this problem and find a solution can be divided into three types.
+1. London crime data of recent years with crime location, type of crime, date etc. It can be downloaded from kaggle. Using this data we can find the Borough in London with least crimes.
+2. Location data of neighborhoods. It can be obtained using geopy client of python. It is used to find the LOcation of each neighborhood in their respective Borough.
+3. Foursquare venues data of each neighborhood. It can be obtained using Foursquare API. It is used find the most visited venues which is later used for applying Machine Learning algorithms.
