@@ -8,25 +8,11 @@
 
 ## 1.1 Background:-
 
-Lots of students, workers, bussiness men, etc are migrating to London and don't know where in London to
-settle. This leads to many problems within the mind of an indiviual as well as in the society in which he is
-living. There is very high risk for these people to fall into the traps of robbers, thugs, smugglers, etc. They
-may get involved in crimes or may become a victim. Several incidents have been reported previously and
-those people are not able to overcome these problem. Another problem which needs to be addressed is the
-interests of an individual about a region before migrating to that region. Without knowing what kind of place
-or what facilities are there in that place may cause so many misunderstanding and mental illness. These
-migrated people may become less productive than before or may not become productive as expected.
-So if there is a system that can guide them to the correct place, it would be great and advantageous. With the
-help of modern technology it is possible to solve this problem.
+Lots of students, workers, businessmen, etc are migrating to London and don't know where in London to settle. This leads to many problems within the mind of an individual as well as in the society in which he is living. There is very high risk for these people to fall into the traps of robbers, thugs, smugglers, etc. They may get involved in crimes or may become a victim. Several incidents have been reported previously and those people are not able to overcome these problem. Another problem which needs to be addressed is the interests of an individual about a region before migrating to that region. Without knowing what kind of place or what facilities are there in that place may cause so many misunderstanding and mental illness. These migrated people may become less productive than before or may not become productive as expected. So if there is a system that can guide them to the correct place, it would be great and advantageous. With the help of modern technology it is possible to solve this problem.
 
 ## 1.2 Problem:-
 
-Data that might contribute to determining the safest Borough in London improvement might include crime
-data from the police department in London. This includes crime type, date, year, may be sub category of
-crime, location of the crime, etc.Then location data of the safest Borough and its neighborhood, location data
-of all the venues in each neighborhood.
-This project aims to help people to select the safest and best neighborhood in London according each
-individuals preference based on these data.
+Data that might contribute to determining the safest Borough in London improvement might include crime data from the police department in London. This includes crime type, date, year, may be sub category of crime, location of the crime, etc.Then location data of the safest Borough and its neighborhood, location data of all the venues in each neighborhood. This project aims to help people to select the safest and best neighborhood in London according to each individual's preference based on these data.
 
 ## 1.3 Interest:-
 
